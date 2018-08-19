@@ -1,0 +1,11 @@
+{
+  "name": "lua-find",
+  "version": "1.0.0",
+  "description": "Javascript implementation of Lua's String.find functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Nijiko Yonskai",
+  "license": "MIT"
+}
